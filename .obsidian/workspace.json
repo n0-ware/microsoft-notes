@@ -1,0 +1,2304 @@
+{
+  "main": {
+    "id": "cede0b627ebae1e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a666cecdfb1b417",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "011c23c61ff04c6d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Security",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Security.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Summary - Storage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Summary - Storage.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":55,\"ch\":47},\"to\":{\"line\":55,\"ch\":47}},\"scroll\":26.91771731917717}"
+                },
+                {
+                  "title": "Moving Data (IO)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Moving Data (IO).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":0},\"to\":{\"line\":28,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Azure Managed Disks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Azure Managed Disks.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":162},\"to\":{\"line\":20,\"ch\":162}}}"
+                },
+                {
+                  "title": "Azure Blob Storage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Azure Blob Storage.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Premium Storage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Premium Storage.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":12},\"to\":{\"line\":11,\"ch\":12}},\"scroll\":0}"
+                },
+                {
+                  "title": "Moving Data (IO)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Moving Data (IO).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":75,\"ch\":34}},\"scroll\":56.234903782349036}"
+                },
+                {
+                  "title": "File Storage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/File Storage.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":2},\"to\":{\"line\":12,\"ch\":2}}}"
+                },
+                {
+                  "title": "Azure Blob Storage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Azure Blob Storage.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":20},\"to\":{\"line\":9,\"ch\":2}}}"
+                },
+                {
+                  "title": "Azure Managed Disks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Azure Managed Disks.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":21},\"to\":{\"line\":9,\"ch\":2}}}"
+                },
+                {
+                  "title": "Azure Blob Storage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Azure Blob Storage.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":131},\"to\":{\"line\":31,\"ch\":131}}}"
+                },
+                {
+                  "title": "Archive",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Archive.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":2},\"to\":{\"line\":12,\"ch\":2}}}"
+                },
+                {
+                  "title": "Azure Blob Storage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Azure Blob Storage.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Archive",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Archive.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":105},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
+                  "title": "Moving Data (IO)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Moving Data (IO).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Premium Storage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Premium Storage.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":2},\"to\":{\"line\":12,\"ch\":2}}}"
+                },
+                {
+                  "title": "Storage Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":2},\"to\":{\"line\":11,\"ch\":2}}}"
+                },
+                {
+                  "title": "Storage Redundancy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Redundancy.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":2},\"to\":{\"line\":12,\"ch\":2}}}"
+                },
+                {
+                  "title": "Premium Storage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Premium Storage.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Moving Data (IO)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Moving Data (IO).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":75,\"ch\":34},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "File Storage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/File Storage.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":12},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Azure Managed Disks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Azure Managed Disks.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":40},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Azure Blob Storage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Azure Blob Storage.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":49},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Archive",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Archive.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":14},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Storage Redundancy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Redundancy.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":2},\"to\":{\"line\":38,\"ch\":2}},\"scroll\":9.659510519536282}"
+                },
+                {
+                  "title": "Storage Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Premium Storage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Premium Storage.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":1},\"to\":{\"line\":9,\"ch\":1}},\"scroll\":0}"
+                },
+                {
+                  "title": "Storage Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":2},\"to\":{\"line\":60,\"ch\":2}},\"scroll\":40.52025586353945}"
+                },
+                {
+                  "title": "Premium Storage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Premium Storage.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Storage Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Storage Redundancy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Redundancy.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":94},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Premium Storage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Premium Storage.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":19},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Storage Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":75,\"ch\":47},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":22.807564698075648}"
+                },
+                {
+                  "title": "Archive",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Archive.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Security Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Security Summary.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":70,\"ch\":111},\"to\":{\"line\":70,\"ch\":111}},\"scroll\":51.31187790311878}"
+                },
+                {
+                  "title": "Azure Sentinel (Supplemental)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Azure Sentinel (Supplemental).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":31},\"to\":{\"line\":9,\"ch\":2}}}"
+                },
+                {
+                  "title": "Introduction to Security",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Introduction to Security.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":2},\"to\":{\"line\":9,\"ch\":26}},\"scroll\":0}"
+                },
+                {
+                  "title": "Security Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Security Summary.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":36.9256801592568}"
+                },
+                {
+                  "title": "Azure Sentinel (Supplemental)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Azure Sentinel (Supplemental).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":25},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Security Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Security Summary.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Introduction to Security",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Introduction to Security.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":71},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Public and Private Endpoints",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Public and Private Endpoints.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Microsoft Defender for Identity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Microsoft Defender for Identity.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":2},\"to\":{\"line\":12,\"ch\":2}}}"
+                },
+                {
+                  "title": "Network Security",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Network Security.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":2},\"to\":{\"line\":12,\"ch\":2}},\"scroll\":0}"
+                },
+                {
+                  "title": "Network Security Groups",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Network Security Groups.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":85},\"to\":{\"line\":17,\"ch\":85}}}"
+                },
+                {
+                  "title": "Notes on Group Types",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Notes on Group Types.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Public and Private Endpoints",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Public and Private Endpoints.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":2},\"to\":{\"line\":12,\"ch\":2}},\"scroll\":0}"
+                },
+                {
+                  "title": "Notes on Group Types",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Notes on Group Types.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":205},\"to\":{\"line\":19,\"ch\":75}}}"
+                },
+                {
+                  "title": "Network Security Groups",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Network Security Groups.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Network Security",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Network Security.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":163},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":14.109375}"
+                },
+                {
+                  "title": "Microsoft Defender for Identity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Microsoft Defender for Identity.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":26},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Defense in Depth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Defense in Depth.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":111},\"to\":{\"line\":23,\"ch\":111}}}"
+                },
+                {
+                  "title": "Information Protection",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Information Protection.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":158},\"to\":{\"line\":22,\"ch\":158}}}"
+                },
+                {
+                  "title": "Key Vault",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Key Vault.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":60},\"to\":{\"line\":19,\"ch\":60}}}"
+                },
+                {
+                  "title": "Dedicated Hosts (Supplemental)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Dedicated Hosts (Supplemental).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":31},\"to\":{\"line\":9,\"ch\":31}}}"
+                },
+                {
+                  "title": "Defender for Cloud",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Defender for Cloud.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dedicated Hosts (Supplemental)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Dedicated Hosts (Supplemental).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Network Security",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Network Security.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":0},\"to\":{\"line\":42,\"ch\":0}},\"scroll\":22.735607675906184}"
+                },
+                {
+                  "title": "Microsoft Defender for Identity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Microsoft Defender for Identity.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":26},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Key Vault",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Key Vault.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Information Protection",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Information Protection.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":98},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Defense in Depth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Defense in Depth.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Defender for Cloud",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Defender for Cloud.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dedicated Hosts (Supplemental)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Dedicated Hosts (Supplemental).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":17},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Defender for Cloud",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Defender for Cloud.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dedicated Hosts (Supplemental)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Dedicated Hosts (Supplemental).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Security Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Security Summary.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":45.36673773987207}"
+                },
+                {
+                  "title": "Summary - Networking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Summary - Networking.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":33},\"to\":{\"line\":20,\"ch\":33}},\"scroll\":29.135416666666668}"
+                },
+                {
+                  "title": "Defense in Depth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Defense in Depth.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Defender for Cloud",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Defender for Cloud.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Defense in Depth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Defense in Depth.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dedicated Hosts (Supplemental)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Dedicated Hosts (Supplemental).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Security Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Security Summary.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":37,\"ch\":14}},\"scroll\":22.670869276708693}"
+                },
+                {
+                  "title": "VPN Gateway",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/VPN Gateway.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":224},\"to\":{\"line\":30,\"ch\":224}},\"scroll\":0}"
+                },
+                {
+                  "title": "Virtual Network",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Virtual Network.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":60},\"to\":{\"line\":43,\"ch\":60}},\"scroll\":0.9900990099009901}"
+                },
+                {
+                  "title": "Network Load Balancer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Network Load Balancer.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":89},\"to\":{\"line\":18,\"ch\":89}}}"
+                },
+                {
+                  "title": "Express Route",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Express Route.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Application Gateway",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Application Gateway.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Content Delivery Network (CDN)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Content Delivery Network (CDN).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Express Route",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Express Route.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":77},\"to\":{\"line\":19,\"ch\":77}}}"
+                },
+                {
+                  "title": "Content Delivery Network (CDN)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Content Delivery Network (CDN).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":87},\"to\":{\"line\":24,\"ch\":87}}}"
+                },
+                {
+                  "title": "Application Gateway",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Application Gateway.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":11},\"to\":{\"line\":18,\"ch\":11}},\"scroll\":0}"
+                },
+                {
+                  "title": "VPN Gateway",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/VPN Gateway.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":28},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":1.4285714285714286}"
+                },
+                {
+                  "title": "Virtual Network",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Virtual Network.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":68},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "VPN Gateway",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/VPN Gateway.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Virtual Network",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Virtual Network.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":68},\"to\":{\"line\":33,\"ch\":10}},\"scroll\":18.560716655607166}"
+                },
+                {
+                  "title": "Network Load Balancer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Network Load Balancer.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":122},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Express Route",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Express Route.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":74},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Content Delivery Network (CDN)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Content Delivery Network (CDN).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":92},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Application Gateway",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Application Gateway.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":99},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Defender for Cloud",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Defender for Cloud.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dedicated Hosts (Supplemental)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Dedicated Hosts (Supplemental).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Application Gateway",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Application Gateway.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":99},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Summary - Monitoring and Management",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Summary - Monitoring and Management.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":149},\"to\":{\"line\":47,\"ch\":149}},\"scroll\":28.34704711347047}"
+                },
+                {
+                  "title": "Monitoring Tools",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Monitoring Tools.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":39},\"to\":{\"line\":17,\"ch\":39}},\"scroll\":0}"
+                },
+                {
+                  "title": "Privacy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Privacy.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}}}"
+                },
+                {
+                  "title": "Monitoring and Management Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Monitoring and Management Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":3.4285714285714284}"
+                },
+                {
+                  "title": "Monitoring Tools",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Monitoring Tools.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":15},\"to\":{\"line\":28,\"ch\":15}},\"scroll\":8.142857142857142}"
+                },
+                {
+                  "title": "Azure Service Health",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Azure Service Health.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":2.4285714285714284}"
+                },
+                {
+                  "title": "Azure Monitor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Azure Monitor.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":10.600446428571429}"
+                },
+                {
+                  "title": "Privacy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Privacy.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":46},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Monitoring and Management Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Monitoring and Management Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":11},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Governance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Governance.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.9900990099009901}"
+                },
+                {
+                  "title": "Compliance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Compliance.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":22.670869276708693}"
+                },
+                {
+                  "title": "Azure Service Health",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Azure Service Health.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":14},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Azure Monitor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Azure Monitor.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":22},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Azure Arc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Azure Arc.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":2},\"to\":{\"line\":9,\"ch\":2}},\"scroll\":0.9900990099009901}"
+                },
+                {
+                  "title": "Summary - Monitoring and Management",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Summary - Monitoring and Management.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":101},\"to\":{\"line\":39,\"ch\":101}},\"scroll\":5.714285714285714}"
+                },
+                {
+                  "title": "Azure Arc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Azure Arc.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":110},\"to\":{\"line\":35,\"ch\":110}},\"scroll\":20.348958333333332}"
+                },
+                {
+                  "title": "Trust",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Trust.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":71},\"to\":{\"line\":21,\"ch\":71}}}"
+                },
+                {
+                  "title": "Governance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Governance.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":76},\"to\":{\"line\":18,\"ch\":76}}}"
+                },
+                {
+                  "title": "Trust",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Trust.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Privacy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Privacy.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":46},\"to\":{\"line\":20,\"ch\":46}},\"scroll\":0}"
+                },
+                {
+                  "title": "Compliance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Compliance.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":59,\"ch\":2},\"to\":{\"line\":59,\"ch\":2}},\"scroll\":27.653616456536163}"
+                },
+                {
+                  "title": "Azure Service Health",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Azure Service Health.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":14},\"to\":{\"line\":18,\"ch\":14}},\"scroll\":0}"
+                },
+                {
+                  "title": "Monitoring Tools",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Monitoring Tools.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":0},\"to\":{\"line\":49,\"ch\":0}},\"scroll\":12.648065476190476}"
+                },
+                {
+                  "title": "Azure Monitor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Azure Monitor.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":0},\"to\":{\"line\":32,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Governance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Governance.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":77,\"ch\":75},\"to\":{\"line\":77,\"ch\":75}},\"scroll\":38.102853351028536}"
+                },
+                {
+                  "title": "Monitoring and Management Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Monitoring and Management Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":22},\"to\":{\"line\":18,\"ch\":22}},\"scroll\":0}"
+                },
+                {
+                  "title": "Security Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Security Summary.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.714285714285714}"
+                },
+                {
+                  "title": "Dedicated Hosts (Supplemental)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Dedicated Hosts (Supplemental).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":17},\"to\":{\"line\":20,\"ch\":17}}}"
+                },
+                {
+                  "title": "Azure Sentinel (Supplemental)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Azure Sentinel (Supplemental).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":25},\"to\":{\"line\":25,\"ch\":25}}}"
+                },
+                {
+                  "title": "Microsoft Defender for Identity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Microsoft Defender for Identity.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":19},\"to\":{\"line\":19,\"ch\":19}}}"
+                },
+                {
+                  "title": "Information Protection",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Information Protection.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":98},\"to\":{\"line\":24,\"ch\":98}}}"
+                },
+                {
+                  "title": "Key Vault",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Key Vault.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":9},\"to\":{\"line\":20,\"ch\":9}}}"
+                },
+                {
+                  "title": "Defender for Cloud",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Defender for Cloud.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":50},\"to\":{\"line\":30,\"ch\":50}},\"scroll\":0}"
+                },
+                {
+                  "title": "Public and Private Endpoints",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Public and Private Endpoints.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":42},\"to\":{\"line\":42,\"ch\":42}},\"scroll\":18.660714285714285}"
+                },
+                {
+                  "title": "Network Security",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Network Security.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":57},\"to\":{\"line\":41,\"ch\":57}},\"scroll\":4.904761904761905}"
+                },
+                {
+                  "title": "Defense in Depth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Defense in Depth.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":2},\"to\":{\"line\":22,\"ch\":2}},\"scroll\":0}"
+                },
+                {
+                  "title": "AAD Domain Services",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/AAD Domain Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":26.929661579296617}"
+                },
+                {
+                  "title": "Introduction to Security",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Introduction to Security.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":70},\"to\":{\"line\":22,\"ch\":70}}}"
+                },
+                {
+                  "title": "2_Azure_service_models",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos/2_Azure_service_models.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "1_Azure_service_models",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos/1_Azure_service_models.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Pasted image 20230509091358",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos 1/Pasted image 20230509091358.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "1_Azure_CoreServices",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos 1/1_Azure_CoreServices.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Introduction to Core Services",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Introduction to Core Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Kubernetes Service",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Kubernetes Service.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Functions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Functions.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Container Registry",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Container Registry.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Azure Container Service",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Azure Container Service.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "App Services",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/App Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Auth and Auth Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Auth and Auth Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "AAD Domain Services",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/AAD Domain Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Notes on Group Types",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Notes on Group Types.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":452},\"to\":{\"line\":17,\"ch\":452}}}"
+                },
+                {
+                  "title": "Network Security Groups",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Network Security Groups.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Summary - Auth and Auth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Summary - Auth and Auth.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":50.40550595238095}"
+                },
+                {
+                  "title": "Zero Trust Concepts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Zero Trust Concepts.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":30},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Single Sign-On",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Single Sign-On.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":59},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Passwordless Authentication",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Passwordless Authentication.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Multi-Factor Authentication",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Multi-Factor Authentication.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":19},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Identity Services",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Identity Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":57},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "External Guest Access",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/External Guest Access.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Conditional Access Policies",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Conditional Access Policies.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":36,\"ch\":72}},\"scroll\":30.544454529737205}"
+                },
+                {
+                  "title": "Azure Active Directory",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Azure Active Directory.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":49,\"ch\":0}},\"scroll\":30.610863095238095}"
+                },
+                {
+                  "title": "Auth and Auth Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Auth and Auth Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":21,\"ch\":17}},\"scroll\":0}"
+                },
+                {
+                  "title": "AAD Domain Services",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/AAD Domain Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":46,\"ch\":22}},\"scroll\":33.90842733908428}"
+                },
+                {
+                  "title": "Single Sign-On",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Single Sign-On.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":59},\"to\":{\"line\":18,\"ch\":59}},\"scroll\":5.714285714285714}"
+                },
+                {
+                  "title": "AAD Domain Services",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/AAD Domain Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":17},\"to\":{\"line\":38,\"ch\":17}},\"scroll\":33.90842733908428}"
+                },
+                {
+                  "title": "External Guest Access",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/External Guest Access.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":39},\"to\":{\"line\":30,\"ch\":39}}}"
+                },
+                {
+                  "title": "Passwordless Authentication",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Passwordless Authentication.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Conditional Access Policies",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Conditional Access Policies.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":72},\"to\":{\"line\":36,\"ch\":72}},\"scroll\":30.180692427385893}"
+                },
+                {
+                  "title": "Multi-Factor Authentication",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Multi-Factor Authentication.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":51},\"to\":{\"line\":15,\"ch\":51}}}"
+                },
+                {
+                  "title": "Scale Sets",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Scale Sets.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":48},\"to\":{\"line\":13,\"ch\":48}},\"scroll\":0}"
+                },
+                {
+                  "title": "Azure Container Service",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Azure Container Service.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":40},\"to\":{\"line\":15,\"ch\":40}},\"scroll\":9.851867754401031}"
+                },
+                {
+                  "title": "App Services",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/App Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Multi-Factor Authentication",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Multi-Factor Authentication.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Zero Trust Concepts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Zero Trust Concepts.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":30},\"to\":{\"line\":38,\"ch\":30}},\"scroll\":14.59721300597213}"
+                },
+                {
+                  "title": "Azure Active Directory",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Azure Active Directory.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":0},\"to\":{\"line\":49,\"ch\":0}},\"scroll\":18.757803468208092}"
+                },
+                {
+                  "title": "Identity Services",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Identity Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":57},\"to\":{\"line\":17,\"ch\":57}}}"
+                },
+                {
+                  "title": "Auth and Auth Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Auth and Auth Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":14},\"to\":{\"line\":18,\"ch\":14}}}"
+                },
+                {
+                  "title": "App Service (Serverless Compute)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/App Service (Serverless Compute).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Analytics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Analytics.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":11},\"to\":{\"line\":8,\"ch\":11}}}"
+                },
+                {
+                  "title": "Network Security Groups",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Network Security Groups.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "1_Azure_CoreServices",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos 1/1_Azure_CoreServices.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Azure Managed Disks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Azure Managed Disks.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Azure Blob Storage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Azure Blob Storage.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Storage Redundancy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Redundancy.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":9.851867754401031}"
+                },
+                {
+                  "title": "Premium Storage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Premium Storage.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":6},\"to\":{\"line\":29,\"ch\":18}},\"scroll\":18.504313205043132}"
+                },
+                {
+                  "title": "Moving Data (IO)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Moving Data (IO).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":75,\"ch\":34},\"to\":{\"line\":75,\"ch\":34}},\"scroll\":41.69759036144578}"
+                },
+                {
+                  "title": "Storage Redundancy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Redundancy.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":71},\"to\":{\"line\":66,\"ch\":71}},\"scroll\":34.94492368944924}"
+                },
+                {
+                  "title": "Archive",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Archive.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":21},\"to\":{\"line\":18,\"ch\":21}}}"
+                },
+                {
+                  "title": "File Storage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/File Storage.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":12},\"to\":{\"line\":27,\"ch\":12}}}"
+                },
+                {
+                  "title": "Azure Managed Disks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Azure Managed Disks.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}}}"
+                },
+                {
+                  "title": "File Storage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/File Storage.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Azure Managed Disks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Azure Managed Disks.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":90},\"to\":{\"line\":23,\"ch\":90}},\"scroll\":0}"
+                },
+                {
+                  "title": "Azure Blob Storage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Azure Blob Storage.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":49},\"to\":{\"line\":35,\"ch\":49}},\"scroll\":19.79515959312522}"
+                },
+                {
+                  "title": "Storage Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":32},\"to\":{\"line\":35,\"ch\":32}},\"scroll\":37.819712381620484}"
+                },
+                {
+                  "title": "Express Route",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Express Route.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Content Delivery Network (CDN)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Content Delivery Network (CDN).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":3},\"to\":{\"line\":28,\"ch\":3}},\"scroll\":0}"
+                },
+                {
+                  "title": "Application Gateway",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Application Gateway.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":53},\"to\":{\"line\":16,\"ch\":53}},\"scroll\":0}"
+                },
+                {
+                  "title": "VPN Gateway",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/VPN Gateway.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":28},\"to\":{\"line\":33,\"ch\":28}},\"scroll\":1.9523809523809523}"
+                },
+                {
+                  "title": "Network Load Balancer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Network Load Balancer.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "VPN Gateway",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/VPN Gateway.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":69},\"to\":{\"line\":13,\"ch\":69}}}"
+                },
+                {
+                  "title": "Network Load Balancer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Network Load Balancer.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":122},\"to\":{\"line\":18,\"ch\":122}}}"
+                },
+                {
+                  "title": "Network Security Groups",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Network Security Groups.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Virtual Network",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Virtual Network.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":31},\"to\":{\"line\":41,\"ch\":31}},\"scroll\":8.919460165433174}"
+                },
+                {
+                  "title": "App Services",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/App Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Functions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Functions.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":66},\"to\":{\"line\":23,\"ch\":66}}}"
+                },
+                {
+                  "title": "Virtual Desktop",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Virtual Desktop.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":69},\"to\":{\"line\":21,\"ch\":69}},\"scroll\":0}"
+                },
+                {
+                  "title": "Container Registry",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Container Registry.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":35},\"to\":{\"line\":25,\"ch\":35}}}"
+                },
+                {
+                  "title": "Kubernetes Service",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Kubernetes Service.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":10},\"to\":{\"line\":26,\"ch\":10}},\"scroll\":0}"
+                },
+                {
+                  "title": "Azure Container Service",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Azure Container Service.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":5.714285714285714}"
+                },
+                {
+                  "title": "App Services",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/App Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":0},\"to\":{\"line\":35,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scale Sets",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Scale Sets.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":19},\"to\":{\"line\":21,\"ch\":19}}}"
+                },
+                {
+                  "title": "Virtual Machines",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Virtual Machines.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":32},\"to\":{\"line\":50,\"ch\":32}},\"scroll\":0}"
+                },
+                {
+                  "title": "Resource Groups",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Resource Groups.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":69},\"to\":{\"line\":26,\"ch\":69}},\"scroll\":0}"
+                },
+                {
+                  "title": "Azure Resource Manager",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Azure Resource Manager.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":10},\"to\":{\"line\":25,\"ch\":10}},\"scroll\":14.342402123424021}"
+                },
+                {
+                  "title": "Resource Groups",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Resource Groups.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}}}"
+                },
+                {
+                  "title": "Storage Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":25},\"to\":{\"line\":26,\"ch\":25}},\"scroll\":0}"
+                },
+                {
+                  "title": "Regions and Availability Zones",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Regions and Availability Zones.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":101},\"to\":{\"line\":34,\"ch\":32}},\"scroll\":0}"
+                },
+                {
+                  "title": "Azure Organization and Infrastructure",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Azure Organization and Infrastructure.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":61.92108788072914}"
+                },
+                {
+                  "title": "Scalability and Elasticity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Scalability and Elasticity.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":28},\"to\":{\"line\":21,\"ch\":28}}}"
+                },
+                {
+                  "title": "High Availability",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/High Availability.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":116},\"to\":{\"line\":14,\"ch\":2}}}"
+                },
+                {
+                  "title": "Reliability",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Reliability.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "High Availability",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/High Availability.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Reliability",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Reliability.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "High Availability",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/High Availability.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}}}"
+                },
+                {
+                  "title": "Reliability",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Reliability.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "+ Azure MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/+ Azure MOC.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":9.851867754401031}"
+                },
+                {
+                  "title": "Cloud Arhicture Models",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Cloud Arhicture Models.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":118},\"to\":{\"line\":27,\"ch\":118}}}"
+                },
+                {
+                  "title": "Marketplace",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Marketplace.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":11},\"to\":{\"line\":14,\"ch\":11}}}"
+                },
+                {
+                  "title": "Service Models",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Service Models.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":58},\"to\":{\"line\":17,\"ch\":58}},\"scroll\":0}"
+                },
+                {
+                  "title": "NotesGeneral",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/NotesGeneral.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}}}"
+                },
+                {
+                  "title": "Service Models",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Service Models.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+                },
+                {
+                  "title": "High Availability",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/High Availability.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":24},\"to\":{\"line\":3,\"ch\":24}}}"
+                },
+                {
+                  "title": "Pricing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Pricing.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":109},\"to\":{\"line\":24,\"ch\":109}}}"
+                },
+                {
+                  "title": "Reliability",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Reliability.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "High Availability",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/High Availability.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":0},\"to\":{\"line\":27,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Manageability",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Manageability.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":35},\"to\":{\"line\":12,\"ch\":44}}}"
+                },
+                {
+                  "title": "Governance Pillar",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Governance Pillar.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":21},\"to\":{\"line\":15,\"ch\":21}}}"
+                },
+                {
+                  "title": "Security",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Security.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":3},\"to\":{\"line\":14,\"ch\":3}}}"
+                },
+                {
+                  "title": "Predictability",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Predictability.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":150},\"to\":{\"line\":16,\"ch\":150}}}"
+                },
+                {
+                  "title": "NotesGeneral",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/NotesGeneral.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":21},\"to\":{\"line\":19,\"ch\":21}}}"
+                },
+                {
+                  "title": "Predictability",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Predictability.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scalability and Elasticity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Scalability and Elasticity.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":34},\"to\":{\"line\":15,\"ch\":34}},\"scroll\":0}"
+                },
+                {
+                  "title": "High Availability",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/High Availability.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":18.668878566688786}"
+                },
+                {
+                  "title": "Advisor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Utilities/Advisor.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":14},\"to\":{\"line\":19,\"ch\":14}}}"
+                },
+                {
+                  "title": "ARM Templates",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Utilities/ARM Templates.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":17},\"to\":{\"line\":22,\"ch\":17}}}"
+                },
+                {
+                  "title": "Azure Mobile Apps",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Utilities/Azure Mobile Apps.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":42},\"to\":{\"line\":13,\"ch\":42}}}"
+                },
+                {
+                  "title": "CloudShell",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Utilities/CloudShell.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":14},\"to\":{\"line\":25,\"ch\":14}}}"
+                },
+                {
+                  "title": "PowerShell",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Utilities/PowerShell.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":16},\"to\":{\"line\":15,\"ch\":16}}}"
+                },
+                {
+                  "title": "Azure CLI",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Utilities/Azure CLI.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":19},\"to\":{\"line\":20,\"ch\":19}}}"
+                },
+                {
+                  "title": "Storage Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":39},\"to\":{\"line\":50,\"ch\":39}},\"scroll\":39.2566265060241}"
+                },
+                {
+                  "title": "Virtual Machines",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Virtual Machines.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":2},\"to\":{\"line\":28,\"ch\":2}},\"scroll\":5.714285714285714}"
+                },
+                {
+                  "title": "Virtual Network",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Virtual Network.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":0.9900990099009901}"
+                },
+                {
+                  "title": "Tenant - Azure AD",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Tenant - Azure AD.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Subscriptions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Subscriptions.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":0.9900990099009901}"
+                },
+                {
+                  "title": "Business Agility",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Business Agility.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":39},\"to\":{\"line\":26,\"ch\":39}}}"
+                },
+                {
+                  "title": "Scalability and Elasticity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Scalability and Elasticity.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":86},\"to\":{\"line\":28,\"ch\":86}}}"
+                },
+                {
+                  "title": "NotesGeneral",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/NotesGeneral.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":3},\"to\":{\"line\":14,\"ch\":3}},\"scroll\":0}"
+                },
+                {
+                  "title": "+ Azure MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/+ Azure MOC.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":5.714285714285714}"
+                },
+                {
+                  "title": "Identity and Access Management",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Identity and Access Management.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Introduction to Azure",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Introduction to Azure.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Monitoring Azure",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Monitoring Azure.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "+ Azure MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/+ Azure MOC.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":13},\"to\":{\"line\":7,\"ch\":7}},\"scroll\":9.851867754401031}"
+                },
+                {
+                  "title": "Monitoring Azure",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Monitoring Azure.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":4},\"to\":{\"line\":1,\"ch\":4}},\"scroll\":6.9523809523809526}"
+                },
+                {
+                  "title": "Introduction to Azure",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Introduction to Azure.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":13},\"to\":{\"line\":6,\"ch\":7}},\"scroll\":0}"
+                },
+                {
+                  "title": "Identity and Access Management",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Identity and Access Management.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}},\"scroll\":3.857142857142857}"
+                },
+                {
+                  "title": "Azure Organization and Infrastructure",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Azure Organization and Infrastructure.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Virtual Machines",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Virtual Machines.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Storage Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":1},\"to\":{\"line\":1,\"ch\":5}}}"
+                },
+                {
+                  "title": "Virtual Network",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Virtual Network.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Storage Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Virtual Machines",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Virtual Machines.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Azure Organization and Infrastructure",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Azure Organization and Infrastructure.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
+                },
+                {
+                  "title": "Virtual Machines",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Virtual Machines.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":15},\"to\":{\"line\":6,\"ch\":9}}}"
+                },
+                {
+                  "title": "Storage Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":15},\"to\":{\"line\":6,\"ch\":9}}}"
+                },
+                {
+                  "title": "Virtual Network",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Virtual Network.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Introduction to Core Services",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Introduction to Core Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":13},\"to\":{\"line\":6,\"ch\":7}}}"
+                },
+                {
+                  "title": "Virtual Network",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Virtual Network.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":13},\"to\":{\"line\":6,\"ch\":7}}}"
+                },
+                {
+                  "title": "Introduction to Core Services",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Introduction to Core Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Databases",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Databases.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "App Service (Serverless Compute)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/App Service (Serverless Compute).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Databases",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Databases.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Analytics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Analytics.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "High Availability",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/High Availability.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scalability and Elasticity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Scalability and Elasticity.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":13},\"to\":{\"line\":6,\"ch\":7}}}"
+                },
+                {
+                  "title": "Analytics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Analytics.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":13},\"to\":{\"line\":6,\"ch\":7}}}"
+                },
+                {
+                  "title": "App Service (Serverless Compute)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/App Service (Serverless Compute).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":9},\"to\":{\"line\":6,\"ch\":14}}}"
+                },
+                {
+                  "title": "Analytics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Analytics.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":21},\"to\":{\"line\":3,\"ch\":21}}}"
+                },
+                {
+                  "title": "Scalability and Elasticity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Scalability and Elasticity.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "High Availability",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/High Availability.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "+ Azure MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/+ Azure MOC.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":0.9900990099009901}"
+                },
+                {
+                  "title": "Scalability and Elasticity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Scalability and Elasticity.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "High Availability",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/High Availability.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":18},\"to\":{\"line\":48,\"ch\":18}},\"scroll\":22.74850696748507}"
+                },
+                {
+                  "title": "App Service (Serverless Compute)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/App Service (Serverless Compute).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":61},\"to\":{\"line\":19,\"ch\":61}}}"
+                },
+                {
+                  "title": "Analytics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Analytics.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "1_Azure_Analytics",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos 1/1_Azure_Analytics.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Analytics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Analytics.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":26},\"to\":{\"line\":17,\"ch\":26}}}"
+                },
+                {
+                  "title": "Databases",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Databases.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":0},\"to\":{\"line\":27,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Storage Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":63,\"ch\":0},\"to\":{\"line\":63,\"ch\":0}},\"scroll\":30.52023888520239}"
+                },
+                {
+                  "title": "Virtual Network",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Virtual Network.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}}}"
+                },
+                {
+                  "title": "Virtual Machines",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Virtual Machines.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":109},\"to\":{\"line\":32,\"ch\":109}}}"
+                },
+                {
+                  "title": "NotesGeneral",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/NotesGeneral.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
+                },
+                {
+                  "title": "Virtual Machines",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Virtual Machines.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":3},\"to\":{\"line\":10,\"ch\":17}},\"scroll\":0}"
+                },
+                {
+                  "title": "Introduction to Core Services",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Introduction to Core Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":29},\"to\":{\"line\":23,\"ch\":29}},\"scroll\":11.36235119047619}"
+                },
+                {
+                  "title": "Monitoring Azure",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Monitoring Azure.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":36},\"to\":{\"line\":9,\"ch\":36}},\"scroll\":0.9900990099009901}"
+                },
+                {
+                  "title": "Introduction to Azure",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Introduction to Azure.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":3},\"to\":{\"line\":10,\"ch\":17}}}"
+                },
+                {
+                  "title": "Identity and Access Management",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Identity and Access Management.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":3},\"to\":{\"line\":10,\"ch\":17}}}"
+                },
+                {
+                  "title": "Azure Organization and Infrastructure",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Azure Organization and Infrastructure.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":36},\"to\":{\"line\":11,\"ch\":36}}}"
+                },
+                {
+                  "title": "Introduction to Core Services",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Introduction to Core Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":36},\"to\":{\"line\":9,\"ch\":36}}}"
+                },
+                {
+                  "title": "Monitoring Azure",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Monitoring Azure.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":12},\"to\":{\"line\":44,\"ch\":12}},\"scroll\":0}"
+                },
+                {
+                  "title": "Introduction to Azure",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Introduction to Azure.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":34},\"to\":{\"line\":10,\"ch\":34}}}"
+                },
+                {
+                  "title": "Identity and Access Management",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Identity and Access Management.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":34},\"to\":{\"line\":10,\"ch\":34}}}"
+                },
+                {
+                  "title": "Azure Organization and Infrastructure",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Azure Organization and Infrastructure.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":34},\"to\":{\"line\":11,\"ch\":34}}}"
+                },
+                {
+                  "title": "NotesGeneral",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/NotesGeneral.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":34},\"to\":{\"line\":16,\"ch\":36}}}"
+                },
+                {
+                  "title": "Monitoring Azure",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Monitoring Azure.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Identity and Access Management",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Identity and Access Management.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":0},\"to\":{\"line\":48,\"ch\":0}},\"scroll\":22.352345415778252}"
+                },
+                {
+                  "title": "Azure Organization and Infrastructure",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Azure Organization and Infrastructure.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":95.56251314405888}"
+                },
+                {
+                  "title": "Introduction to Azure",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Introduction to Azure.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Azure Organization and Infrastructure",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Azure Organization and Infrastructure.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":54,\"ch\":0},\"to\":{\"line\":54,\"ch\":0}},\"scroll\":30.45907738095238}"
+                },
+                {
+                  "title": "Introduction to Azure",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Introduction to Azure.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":18},\"to\":{\"line\":37,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "NotesGeneral",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/NotesGeneral.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":20},\"to\":{\"line\":18,\"ch\":20}}}"
+                },
+                {
+                  "title": "Introduction to Azure",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Intro to Azure/Introduction to Azure.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "NotesGeneral",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/NotesGeneral.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
+                },
+                {
+                  "title": "TagCloud",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/TagCloud.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":6},\"to\":{\"line\":0,\"ch\":6}}}"
+                },
+                {
+                  "title": "Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/Microsoft Training/Introduction.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Describe the Benefits",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/Microsoft Training/Describe the Benefits.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Describe Cloud Computing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/Microsoft Training/Describe Cloud Computing.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "LogScale Configuration",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"- Projects/SIEM/LogScale/LogScale Configuration.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Release Notes 1.2.7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"1.2.7\"}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/AZ-900/+ Azure MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "440b3841429709ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "b208c03cadd231ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dddbab8b18fd423a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77966b04a7f238ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "logstash",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "582aeca9b2ec1d27",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a67a2b3be8433fe",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d318a4c49f27124",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 381.5
+  },
+  "right": {
+    "id": "7a43a6c530e72e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2b5c6391f1b9b1d",
+        "type": "tabs",
+        "dimension": 60.74074074074074,
+        "children": [
+          {
+            "id": "4f6e4ddebde66a86",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "90d026528dc7103b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Azure/AZ-900/+ Azure MOC.md"
+              }
+            }
+          },
+          {
+            "id": "402a47d6845e35ff",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "cc261747cbab30f2",
+        "type": "tabs",
+        "dimension": 39.25925925925926,
+        "children": [
+          {
+            "id": "d535bd36dbc98e0b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Azure/AZ-900/+ Azure MOC.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db24a37c2b64aa6c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Azure/AZ-900/+ Azure MOC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4fd5ddab0d74cf4f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Azure/AZ-900/+ Azure MOC.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.859939813509505,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.59156799316406,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "011c23c61ff04c6d",
+  "lastOpenFiles": [
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Security.md",
+    "Azure/AZ-900/+ Azure MOC.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Summary - Storage.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Moving Data (IO).md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Azure Managed Disks.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Azure Blob Storage.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Premium Storage.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/File Storage.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Archive.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Introduction.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Redundancy.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Governance Pillar.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Security Summary.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Azure Sentinel (Supplemental).md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Introduction to Security.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Public and Private Endpoints.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Microsoft Defender for Identity.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Network Security.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Network Security Groups.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Notes on Group Types.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Defense in Depth.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Information Protection.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Key Vault.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Dedicated Hosts (Supplemental).md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Defender for Cloud.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Summary - Networking.md",
+    "1_Azure_azure_arc.png",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos/2_Azure_service_models.png",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos/1_Azure_service_models.png",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos 1/Pasted image 20230509091358.png",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos 1/1_Azure_CoreServices.png",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Soncepts",
+    "Azure/AZ-900/A Cloud Guru/Core Services/Untitled 1",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos 1/1_Azure_sso.png",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos 1/1_Azure_aadds.png",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos 1/1_Azure_passwordless.png",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos 1/1_Azure_conditional_access.png",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization",
+    "Azure/AZ-900/A Cloud Guru/Core Services/Untitled",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos 1/1_Azure_container_registry.png",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos"
+  ]
+}

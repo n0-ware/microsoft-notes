@@ -1,0 +1,207 @@
+{
+  "recentFiles": [
+    {
+      "basename": "+ Azure MOC",
+      "path": "Azure/AZ-900/+ Azure MOC.md"
+    },
+    {
+      "basename": "Security",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Security.md"
+    },
+    {
+      "basename": "Summary - Storage",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Summary - Storage.md"
+    },
+    {
+      "basename": "Moving Data (IO)",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Moving Data (IO).md"
+    },
+    {
+      "basename": "Azure Managed Disks",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Azure Managed Disks.md"
+    },
+    {
+      "basename": "Azure Blob Storage",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Azure Blob Storage.md"
+    },
+    {
+      "basename": "Premium Storage",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Premium Storage.md"
+    },
+    {
+      "basename": "File Storage",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/File Storage.md"
+    },
+    {
+      "basename": "Archive",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Archive.md"
+    },
+    {
+      "basename": "Storage Introduction",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Introduction.md"
+    },
+    {
+      "basename": "Storage Redundancy",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Redundancy.md"
+    },
+    {
+      "basename": "Governance Pillar",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Governance Pillar.md"
+    },
+    {
+      "basename": "Security Summary",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Security Summary.md"
+    },
+    {
+      "basename": "Azure Sentinel (Supplemental)",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Azure Sentinel (Supplemental).md"
+    },
+    {
+      "basename": "Introduction to Security",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Introduction to Security.md"
+    },
+    {
+      "basename": "Public and Private Endpoints",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Public and Private Endpoints.md"
+    },
+    {
+      "basename": "Microsoft Defender for Identity",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Microsoft Defender for Identity.md"
+    },
+    {
+      "basename": "Network Security",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Network Security.md"
+    },
+    {
+      "basename": "Network Security Groups",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Network Security Groups.md"
+    },
+    {
+      "basename": "Notes on Group Types",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Notes on Group Types.md"
+    },
+    {
+      "basename": "Defense in Depth",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Defense in Depth.md"
+    },
+    {
+      "basename": "Information Protection",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Information Protection.md"
+    },
+    {
+      "basename": "Key Vault",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Key Vault.md"
+    },
+    {
+      "basename": "Dedicated Hosts (Supplemental)",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Dedicated Hosts (Supplemental).md"
+    },
+    {
+      "basename": "Defender for Cloud",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Defender for Cloud.md"
+    },
+    {
+      "basename": "Summary - Networking",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Summary - Networking.md"
+    },
+    {
+      "basename": "VPN Gateway",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/VPN Gateway.md"
+    },
+    {
+      "basename": "Virtual Network",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Virtual Network.md"
+    },
+    {
+      "basename": "Network Load Balancer",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Network Load Balancer.md"
+    },
+    {
+      "basename": "Express Route",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Express Route.md"
+    },
+    {
+      "basename": "Application Gateway",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Application Gateway.md"
+    },
+    {
+      "basename": "Content Delivery Network (CDN)",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Content Delivery Network (CDN).md"
+    },
+    {
+      "basename": "Summary - Monitoring and Management",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Summary - Monitoring and Management.md"
+    },
+    {
+      "basename": "Monitoring Tools",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Monitoring Tools.md"
+    },
+    {
+      "basename": "Privacy",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Privacy.md"
+    },
+    {
+      "basename": "Monitoring and Management Introduction",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Monitoring and Management Introduction.md"
+    },
+    {
+      "basename": "Azure Service Health",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Azure Service Health.md"
+    },
+    {
+      "basename": "Azure Monitor",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Azure Monitor.md"
+    },
+    {
+      "basename": "Governance",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Governance.md"
+    },
+    {
+      "basename": "Compliance",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Compliance.md"
+    },
+    {
+      "basename": "Azure Arc",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Azure Arc.md"
+    },
+    {
+      "basename": "Trust",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Trust.md"
+    },
+    {
+      "basename": "AAD Domain Services",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/AAD Domain Services.md"
+    },
+    {
+      "basename": "2_Azure_service_models",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos/2_Azure_service_models.png"
+    },
+    {
+      "basename": "1_Azure_service_models",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos/1_Azure_service_models.png"
+    },
+    {
+      "basename": "Pasted image 20230509091358",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos 1/Pasted image 20230509091358.png"
+    },
+    {
+      "basename": "1_Azure_CoreServices",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos 1/1_Azure_CoreServices.png"
+    },
+    {
+      "basename": "Introduction to Core Services",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Introduction to Core Services.md"
+    },
+    {
+      "basename": "Kubernetes Service",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Kubernetes Service.md"
+    },
+    {
+      "basename": "Functions",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Functions.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}
