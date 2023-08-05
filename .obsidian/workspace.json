@@ -11,17 +11,227 @@
             "id": "011c23c61ff04c6d",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Security",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Security.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Virtual Desktop",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Virtual Desktop.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":72},\"to\":{\"line\":20,\"ch\":72}}}"
+                },
+                {
+                  "title": "Scale Sets",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Scale Sets.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":38},\"to\":{\"line\":20,\"ch\":38}}}"
+                },
+                {
+                  "title": "Kubernetes Service",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Kubernetes Service.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":38},\"to\":{\"line\":20,\"ch\":38}}}"
+                },
+                {
+                  "title": "Scale Sets",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Scale Sets.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Kubernetes Service",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Kubernetes Service.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Functions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Functions.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":232},\"to\":{\"line\":24,\"ch\":232}}}"
+                },
+                {
+                  "title": "Virtual Machines",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Virtual Machines.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":32},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Virtual Desktop",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Virtual Desktop.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":69},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scale Sets",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Scale Sets.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":19},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Kubernetes Service",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Kubernetes Service.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":10},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Functions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Functions.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":23,\"ch\":66}}}"
+                },
+                {
+                  "title": "Azure Container Service",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Azure Container Service.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":130},\"to\":{\"line\":32,\"ch\":130}}}"
+                },
+                {
+                  "title": "App Services",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/App Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":151},\"to\":{\"line\":25,\"ch\":151}}}"
+                },
+                {
+                  "title": "Azure Container Service",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Azure Container Service.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":33,\"ch\":32}}}"
+                },
+                {
+                  "title": "App Services",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/App Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Zero Trust Concepts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Zero Trust Concepts.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":2},\"to\":{\"line\":12,\"ch\":2}},\"scroll\":0}"
+                },
+                {
+                  "title": "Summary - Auth and Auth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Summary - Auth and Auth.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":373},\"to\":{\"line\":62,\"ch\":373}},\"scroll\":0}"
+                },
+                {
+                  "title": "Zero Trust Concepts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Zero Trust Concepts.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":18.914434523809526}"
+                },
+                {
+                  "title": "Summary - Auth and Auth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Summary - Auth and Auth.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":96,\"ch\":297}},\"scroll\":70.1503198294243}"
+                },
+                {
+                  "title": "Single Sign-On",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Single Sign-On.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.714285714285714}"
+                },
+                {
+                  "title": "Passwordless Authentication",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Passwordless Authentication.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":43,\"ch\":0}},\"scroll\":23.993613591269842}"
+                },
+                {
+                  "title": "Multi-Factor Authentication",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Multi-Factor Authentication.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Identity Services",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Identity Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":25},\"to\":{\"line\":17,\"ch\":25}}}"
+                },
+                {
+                  "title": "External Guest Access",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/External Guest Access.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Conditional Access Policies",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Conditional Access Policies.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":30.02805152143845}"
+                },
+                {
+                  "title": "AAD Domain Services",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/AAD Domain Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":3},\"to\":{\"line\":9,\"ch\":3}}}"
+                },
+                {
+                  "title": "Auth and Auth Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Auth and Auth Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Azure Active Directory",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Azure Active Directory.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":2},\"to\":{\"line\":12,\"ch\":2}}}"
+                },
+                {
+                  "title": "Conditional Access Policies",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Conditional Access Policies.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":2},\"to\":{\"line\":12,\"ch\":2}},\"scroll\":0}"
+                },
+                {
+                  "title": "Azure Active Directory",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Azure Active Directory.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":120},\"to\":{\"line\":46,\"ch\":120}},\"scroll\":9.851867754401031}"
+                },
+                {
+                  "title": "AAD Domain Services",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/AAD Domain Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":27.118303571428573}"
+                },
+                {
+                  "title": "Auth and Auth Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Auth and Auth Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Azure Active Directory",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Azure Active Directory.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":47,\"ch\":108}},\"scroll\":29.65295288652953}"
+                },
+                {
+                  "title": "Auth and Auth Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Auth and Auth Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":17},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "AAD Domain Services",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/AAD Domain Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":2},\"to\":{\"line\":9,\"ch\":2}},\"scroll\":0}"
+                },
+                {
+                  "title": "+ Azure MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/+ Azure MOC.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Summary - Storage",
@@ -794,7 +1004,7 @@
                 {
                   "title": "AAD Domain Services",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/AAD Domain Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/AAD Domain Services.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":26.929661579296617}"
                 },
                 {
@@ -836,43 +1046,43 @@
                 {
                   "title": "Kubernetes Service",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Kubernetes Service.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Kubernetes Service.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Functions",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Functions.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Functions.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Container Registry",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Container Registry.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Container Registry.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Azure Container Service",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Azure Container Service.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Azure Container Service.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "App Services",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/App Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/App Services.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Auth and Auth Introduction",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Auth and Auth Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Auth and Auth Introduction.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "AAD Domain Services",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/AAD Domain Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/AAD Domain Services.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -890,151 +1100,151 @@
                 {
                   "title": "Summary - Auth and Auth",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Summary - Auth and Auth.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Summary - Auth and Auth.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":50.40550595238095}"
                 },
                 {
                   "title": "Zero Trust Concepts",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Zero Trust Concepts.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Zero Trust Concepts.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":30},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "Single Sign-On",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Single Sign-On.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Single Sign-On.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":59},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "Passwordless Authentication",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Passwordless Authentication.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Passwordless Authentication.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "Multi-Factor Authentication",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Multi-Factor Authentication.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Multi-Factor Authentication.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":19},\"to\":{\"line\":9,\"ch\":0}}}"
                 },
                 {
                   "title": "Identity Services",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Identity Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Identity Services.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":57},\"to\":{\"line\":9,\"ch\":0}}}"
                 },
                 {
                   "title": "External Guest Access",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/External Guest Access.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/External Guest Access.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "Conditional Access Policies",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Conditional Access Policies.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Conditional Access Policies.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":36,\"ch\":72}},\"scroll\":30.544454529737205}"
                 },
                 {
                   "title": "Azure Active Directory",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Azure Active Directory.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Azure Active Directory.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":49,\"ch\":0}},\"scroll\":30.610863095238095}"
                 },
                 {
                   "title": "Auth and Auth Introduction",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Auth and Auth Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Auth and Auth Introduction.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":21,\"ch\":17}},\"scroll\":0}"
                 },
                 {
                   "title": "AAD Domain Services",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/AAD Domain Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/AAD Domain Services.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":46,\"ch\":22}},\"scroll\":33.90842733908428}"
                 },
                 {
                   "title": "Single Sign-On",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Single Sign-On.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Single Sign-On.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":59},\"to\":{\"line\":18,\"ch\":59}},\"scroll\":5.714285714285714}"
                 },
                 {
                   "title": "AAD Domain Services",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/AAD Domain Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/AAD Domain Services.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":17},\"to\":{\"line\":38,\"ch\":17}},\"scroll\":33.90842733908428}"
                 },
                 {
                   "title": "External Guest Access",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/External Guest Access.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/External Guest Access.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":39},\"to\":{\"line\":30,\"ch\":39}}}"
                 },
                 {
                   "title": "Passwordless Authentication",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Passwordless Authentication.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Passwordless Authentication.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Conditional Access Policies",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Conditional Access Policies.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Conditional Access Policies.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":72},\"to\":{\"line\":36,\"ch\":72}},\"scroll\":30.180692427385893}"
                 },
                 {
                   "title": "Multi-Factor Authentication",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Multi-Factor Authentication.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Multi-Factor Authentication.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":51},\"to\":{\"line\":15,\"ch\":51}}}"
                 },
                 {
                   "title": "Scale Sets",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Scale Sets.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Scale Sets.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":48},\"to\":{\"line\":13,\"ch\":48}},\"scroll\":0}"
                 },
                 {
                   "title": "Azure Container Service",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Azure Container Service.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Azure Container Service.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":40},\"to\":{\"line\":15,\"ch\":40}},\"scroll\":9.851867754401031}"
                 },
                 {
                   "title": "App Services",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/App Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/App Services.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Multi-Factor Authentication",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Multi-Factor Authentication.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Multi-Factor Authentication.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "Zero Trust Concepts",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Zero Trust Concepts.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Zero Trust Concepts.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":30},\"to\":{\"line\":38,\"ch\":30}},\"scroll\":14.59721300597213}"
                 },
                 {
                   "title": "Azure Active Directory",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Azure Active Directory.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Azure Active Directory.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":0},\"to\":{\"line\":49,\"ch\":0}},\"scroll\":18.757803468208092}"
                 },
                 {
                   "title": "Identity Services",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Identity Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Identity Services.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":57},\"to\":{\"line\":17,\"ch\":57}}}"
                 },
                 {
                   "title": "Auth and Auth Introduction",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization/Auth and Auth Introduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Auth and Auth Introduction.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":14},\"to\":{\"line\":18,\"ch\":14}}}"
                 },
                 {
@@ -1196,55 +1406,55 @@
                 {
                   "title": "App Services",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/App Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/App Services.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Functions",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Functions.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Functions.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":66},\"to\":{\"line\":23,\"ch\":66}}}"
                 },
                 {
                   "title": "Virtual Desktop",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Virtual Desktop.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Virtual Desktop.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":69},\"to\":{\"line\":21,\"ch\":69}},\"scroll\":0}"
                 },
                 {
                   "title": "Container Registry",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Container Registry.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Container Registry.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":35},\"to\":{\"line\":25,\"ch\":35}}}"
                 },
                 {
                   "title": "Kubernetes Service",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Kubernetes Service.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Kubernetes Service.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":10},\"to\":{\"line\":26,\"ch\":10}},\"scroll\":0}"
                 },
                 {
                   "title": "Azure Container Service",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Azure Container Service.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Azure Container Service.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":5.714285714285714}"
                 },
                 {
                   "title": "App Services",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/App Services.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/App Services.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":0},\"to\":{\"line\":35,\"ch\":0}}}"
                 },
                 {
                   "title": "Scale Sets",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Scale Sets.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Scale Sets.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":19},\"to\":{\"line\":21,\"ch\":19}}}"
                 },
                 {
                   "title": "Virtual Machines",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Virtual Machines.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Virtual Machines.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":32},\"to\":{\"line\":50,\"ch\":32}},\"scroll\":0}"
                 },
                 {
@@ -1478,7 +1688,7 @@
                 {
                   "title": "Virtual Machines",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Virtual Machines.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Virtual Machines.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":2},\"to\":{\"line\":28,\"ch\":2}},\"scroll\":5.714285714285714}"
                 },
                 {
@@ -1574,7 +1784,7 @@
                 {
                   "title": "Virtual Machines",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Virtual Machines.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Virtual Machines.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -1598,7 +1808,7 @@
                 {
                   "title": "Virtual Machines",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Virtual Machines.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Virtual Machines.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -1610,7 +1820,7 @@
                 {
                   "title": "Virtual Machines",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Virtual Machines.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Virtual Machines.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":15},\"to\":{\"line\":6,\"ch\":9}}}"
                 },
                 {
@@ -1772,7 +1982,7 @@
                 {
                   "title": "Virtual Machines",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Virtual Machines.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Virtual Machines.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":109},\"to\":{\"line\":32,\"ch\":109}}}"
                 },
                 {
@@ -1784,7 +1994,7 @@
                 {
                   "title": "Virtual Machines",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute/Virtual Machines.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Virtual Machines.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":3},\"to\":{\"line\":10,\"ch\":17}},\"scroll\":0}"
                 },
                 {
@@ -1948,7 +2158,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure/AZ-900/+ Azure MOC.md",
+                "file": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Virtual Machines.md",
                 "mode": "source",
                 "source": false
               }
@@ -2065,7 +2275,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 398.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -2111,7 +2321,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure/AZ-900/+ Azure MOC.md"
+                "file": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Virtual Machines.md"
               }
             }
           },
@@ -2155,7 +2365,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure/AZ-900/+ Azure MOC.md",
+                "file": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Virtual Machines.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -2181,7 +2391,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure/AZ-900/+ Azure MOC.md",
+                "file": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Virtual Machines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -2202,7 +2412,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Azure/AZ-900/+ Azure MOC.md",
+                "file": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Virtual Machines.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -2252,34 +2462,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "011c23c61ff04c6d",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
-    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Security.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Virtual Desktop.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Scale Sets.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Kubernetes Service.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Functions.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Virtual Machines.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Azure Container Service.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/App Services.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Zero Trust Concepts.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Summary - Auth and Auth.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Single Sign-On.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Passwordless Authentication.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Multi-Factor Authentication.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Identity Services.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/External Guest Access.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Conditional Access Policies.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/AAD Domain Services.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Auth and Auth Introduction.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Azure Active Directory.md",
     "Azure/AZ-900/+ Azure MOC.md",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Security.md",
     "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Summary - Storage.md",
     "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Moving Data (IO).md",
     "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Azure Managed Disks.md",
     "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Azure Blob Storage.md",
     "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Premium Storage.md",
     "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/File Storage.md",
-    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Archive.md",
-    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Introduction.md",
-    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Redundancy.md",
-    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Governance Pillar.md",
-    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Security Summary.md",
-    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Azure Sentinel (Supplemental).md",
-    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Introduction to Security.md",
-    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Public and Private Endpoints.md",
-    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Microsoft Defender for Identity.md",
-    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Network Security.md",
-    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Network Security Groups.md",
-    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Notes on Group Types.md",
-    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Defense in Depth.md",
-    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Information Protection.md",
-    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Key Vault.md",
-    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Dedicated Hosts (Supplemental).md",
-    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Defender for Cloud.md",
-    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Summary - Networking.md",
     "1_Azure_azure_arc.png",
     "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)",
     "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos/2_Azure_service_models.png",
@@ -2292,13 +2502,13 @@
     "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos 1/1_Azure_aadds.png",
     "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos 1/1_Azure_passwordless.png",
     "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos 1/1_Azure_conditional_access.png",
-    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)",
     "Azure/AZ-900/A Cloud Guru/Core Services/Untitled",
     "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)",
     "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)",
     "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)",
     "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos 1/1_Azure_container_registry.png",
-    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute",
+    "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)",
     "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Services/Photos"
   ]
 }
