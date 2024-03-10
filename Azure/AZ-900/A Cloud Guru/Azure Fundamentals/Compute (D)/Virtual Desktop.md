@@ -11,11 +11,11 @@ cert: "AZ-900"
 
 > _Creation Date:_ `=this.file.cday` _Last Modified:_ `=this.file.mday`
 
-Azure Virtual Desktop (formerly Windows Virtual Desktop) is a desktop and application virtualization service that runs on the Azure cloud.
+Azure Virtual Desktop (previously Windows Virtual Desktop) offers desktop and application virtualization on the Azure platform.
 
 ## Key Points
 
-- Supports Windows 10 and 11 multi-session, Windows Server, and Windows 7 with free extended security updates.
-- It provides optimized performance and user experience for Office 365 and Teams.
-- Can be accessed from anywhere and on any device.
-- Provides robust security with Azure's multi-layered security measures.
+- Supports Windows 10, 11 multi-session, Windows Server, and Windows 7 (with extended security).
+- Optimized for Office 365 and Teams.
+- Accessible universally across devices.
+- Enhanced security with Azure's layered protections.

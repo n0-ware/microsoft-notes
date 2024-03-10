@@ -55,7 +55,7 @@ cert: "AZ-900"
 
 ## Blueprints
 
-> Templates for creating resources
+> A declarative method to orchestrate the deployment of resource templates and other artifacts such as role assignments, policy assignments, resource templates, and resource groups
 
 - Contain everything you need to build something in azure
 	- resource templates

@@ -13,7 +13,7 @@ cert: "AZ-900"
 
 > Full name is **Azure Active Directory Seamless Single Sign On**
 
-![[1_Azure_sso.png]]
+![[Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core (D)/Photos 1/1_Azure_sso.png]]
 
 - Must be enabled first
 - Then you simply enable it for the apps that can manage it

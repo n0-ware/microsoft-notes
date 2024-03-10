@@ -28,7 +28,7 @@ Conditional Access is a premium feature incorporated into Azure AD that allows t
     - Blocking access.
     - Requiring MFA.
 
-![[1_Azure_conditional_access.png]]
+![[Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core (D)/Photos 1/1_Azure_conditional_access.png]]
 
 ## Key Considerations
 

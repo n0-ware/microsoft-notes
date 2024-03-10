@@ -10,12 +10,12 @@ cert: "AZ-900"
 
 > _Creation Date:_ `=this.file.cday` _Last Modified:_ `=this.file.mday`
 
-Azure Virtual Machines (VM) is a part of the Azure Infrastructure as a Service (IaaS) offering that allows users to deploy persistent VMs in the cloud.
+Azure Virtual Machines (VM) provide persistent cloud-based VMs as part of Azure's IaaS offering.
 
 ## Key Points
 
-- VMs are highly flexible and provide the control of a dedicated server with the scalability and convenience of the cloud.
-- Azure VMs offer a wide range of machine types optimized to meet various needs like compute, memory, storage, and GPU-intensive workloads.
-- With Azure VMs, you can build, deploy, and manage applications across global Azure regions while maintaining control over your network settings, host operating system, and the software installed on the VMs.
-- VM Scale Sets allow you to create and manage a group of identical, load-balanced VMs, simplifying large-scale services with high availability and responsiveness.
-- Azure VMs can also form part of an Availability Set, ensuring that if one VM fails, another VM will be available to keep your application running.
+- Azure VMs combine the flexibility of a dedicated server with cloud scalability and convenience.
+- Offers diverse machine types for different needs, from compute to storage to GPU-intensive tasks.
+- Allows global deployment and management of applications, while retaining control over network configurations, host OS, and VM software.
+- VM Scale Sets enable easy creation and management of uniform VM groups for high availability.
+- VMs in an Availability Set ensure continuous application function even if a VM becomes unavailable.

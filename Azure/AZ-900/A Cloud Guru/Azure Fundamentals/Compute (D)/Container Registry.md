@@ -8,19 +8,23 @@ imageNameKey: "Azure_container_registry"
 cert: "AZ-900"
 ---
 # Container Registry
-> *Creation Date:* `=this.file.cday`
-> *Last Modified:* `=this.file.mday`
 
-- Source of the containers for [[Azure Container Service]] and [[Kubernetes Service]]
-- Keeps track of all current valid container images
-- Manages files and artifacts
-- When a service needs a new container, request is made to ACR
-- Can use strong identity management
+> _Creation Date:_ `=this.file.cday` _Last Modified:_ `=this.file.mday`
+
+Azure Container Registry (ACR) is the repository for container images utilized by [[Azure Container Service]] and [[Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Scale Sets - Kubernetes Service |Scale Sets - Kubernetes Service]].
+
+## Key Points
+
+- Serves as the centralized storage for all active container images.
+- Administers files and other essential artifacts.
+- Container service requests are directed to ACR when new containers are needed.
+- Incorporates robust identity management capabilities.
 
 ## Architecture
 
-- ACR provides images and Kubernetes manages containers in "**clusters**""
-- Cluster is a set of machines called "**Nodes**"
-- Groups of one or more containers sharing the same infrastructure are called "**pods**" and have a uniform instruction set on how the container is run
-- Kubernetes automatically creates new **pods** as load increases above stability
-![[1_Azure_container_registry.png]]
+- ACR supplies the images, while Kubernetes orchestrates the containers within "**clusters**".
+- A "**cluster**" comprises a group of machines referred to as "**Nodes**".
+- "**Pods**" refer to collections of one or more containers that share the same infrastructure and execute based on a standardized set of instructions.
+- Kubernetes dynamically spawns new **pods** in response to an influx in load, ensuring stability.
+
+![[Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Photos - Compute/1_Azure_container_registry.png]]

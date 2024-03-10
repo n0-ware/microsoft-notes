@@ -11,23 +11,26 @@ cert: "AZ-900"
 
 > _Creation Date:_ `=this.file.cday` _Last Modified:_ `=this.file.mday`
 
-Azure Container Service (ACS) is a cloud-based container deployment and management service which provides a platform for Docker container orchestration.
+Azure Container Service (ACS) delivers cloud-based container orchestration, emphasizing Docker.
 
+> **Question**: Select which Azure service you should choose to run an application with the following requirements: - All software dependencies are bundled with the application source code - Bundled application is portable - Provision and run compute only when needed to save costs - Minimal management overhead
+> 
+> **Answer**: Containers fulfill the requirement to bundle an application with its dependencies and ensure portability. Azure Container Instances allows you to only run your container when needed and have lower management overhead compared to a fully orchestrated Azure Kubernetes Service option.
 ## Key Points
 
-- ACS simplifies the creation, configuration, and management of a cluster of virtual machines that are preconfigured to run containerized applications.
-- Containers can package any computing load along with their dependencies, promoting portability and reducing issues associated with dependency management.
+- ACS offers streamlined creation, configuration, and management of VM clusters, preconfigured for containerized applications.
+- Embraces **containerization** to encapsulate workloads and their dependencies, enhancing portability and dependency management.
 
 ### Benefits
 
-1. **Manage Application Dependencies**: All the dependencies are included in the container image which ensures consistency across environments.
-2. **Reduced Overhead**: Containers are independent of the operating system reducing the dependency on OS updates.
-3. **Increased Portability**: Containers can be deployed virtually anywhere, regardless of the operating system or hardware.
-4. **Efficiency**: Development, deployment, and maintenance processes are simplified and scaling becomes easy.
-5. **Consistency**: Containers maintain consistency across different environments, providing reliability to operations teams.
+- **Dependency Management**: Containers include every required dependency, ensuring uniformity across stages.
+- **Overhead Reduction**: Container independence from OS cuts down reliance on OS-level updates.
+- **Portability**: Seamless deployment regardless of the environment's OS or hardware.
+- **Efficiency**: Simplifies development, deployment, and scaling.
+- **Reliability**: Provides consistent behavior across environments.
 
 ### Workflow
 
-- A typical workflow includes creating an application or process (workload), packaging it into a container, and deploying it to Azure Container Service.
-- This process integrates smoothly with the standard software development lifecycle (SDLC).
-- Utilizing on-demand container instances can provide cost efficiency by only using and paying for resources when they are needed.
+- Develop an application, containerize it, and deploy to ACS.
+- Seamless integration with conventional software development lifecycles.
+- **Cost-Efficient**: Only pay for active container instances, optimizing resource usage.

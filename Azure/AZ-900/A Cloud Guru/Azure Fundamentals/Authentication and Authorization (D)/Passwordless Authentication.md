@@ -21,7 +21,7 @@ cert: "AZ-900"
 - This replaces it with two single factor methods of authentication that are secure in their own right
 	- Something you have such as a phone or key fob or other one time password device.
 	- Something you know or are, such as your fingerprint or face or unlock PIN on a device that you have.
-![[1_Azure_passwordless.png]]
+![[Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core (D)/Photos 1/1_Azure_passwordless.png]]
 
 ## Methods
 

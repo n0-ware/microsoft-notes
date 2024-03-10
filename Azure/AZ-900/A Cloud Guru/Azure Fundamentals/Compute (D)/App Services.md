@@ -11,18 +11,21 @@ cert: "AZ-900"
 
 > _Creation Date:_ `=this.file.cday` _Last Modified:_ `=this.file.mday`
 
-Azure App Service is a Platform as a Service (PaaS) offering from Microsoft Azure, providing a fully managed platform to build, deploy, and scale enterprise-grade web, mobile, and API apps.
-
+Azure App Service is a PaaS solution from Azure, offering a platform to craft, deploy, and scale enterprise-grade web, mobile, and API apps.
+- Think Lambda, Elastic Beanstalk, etc. 
 ## Key Points
 
-- App Services abstract away the underlying infrastructure, handling server, network, and storage management.
-- Supports a variety of programming languages including .NET, .NET Core, Java, Ruby, Node.js, PHP, or Python.
-- Applications are easily scalable to meet demand, supporting auto-scaling and load balancing.
+- Provides a **fully managed environment**, offloading infrastructure complexities such as server, network, and storage management.
+- **Multilingual support**: .NET, .NET Core, Java, Ruby, Node.js, PHP, and Python.
+- **Dynamic scalability** allows auto-scaling and load balancing based on demand.
+- App service can reduce the management overhead (like elastic beanstalk)
+- Reduces the requirements for you to manage infra and servers
+- Deploy code, Azure handles the rest
+- Highly customized applications may not work well
+- Very good for developers, but non developers might have a problem
 
 ### Categories
 
-1. **Web Apps**: Build and host websites using .NET, .NET Core, Java, Ruby, Node.js, PHP, or Python. You can run on Windows or Linux environments.
-2. **Web Apps for Containers**: Host and scale applications packaged into containers, ensuring dependencies are always met and providing a consistent experience across environments.
-3. **API Apps**: Expose APIs for use in your own applications, or for third parties to use. They can be built in a wide range of programming languages.
-
-
+- **Web Apps**: Design and host websites. Compatible with multiple programming languages and can run in both Windows and Linux environments.
+- **Web Apps for Containers**: Facilitates hosting applications in containers. Ensures consistent dependencies and environment fidelity.
+- **API Apps**: Construct and expose APIs either for internal use or third-party integration.

@@ -13,8 +13,7 @@ cert: "AZ-900"
 
 - Threat alerts
 - Hybrid capable
-	- Via an egent
-
+	- Via an agent
 1. Policy and compliance
 2. Secure score helps with hygiene
 3. Integrates with other cloud providers
@@ -27,5 +26,4 @@ cert: "AZ-900"
 3. Respond on the alerts
 
 ## Resource Security Hygiene
-
 - Best practices monitoring against your resources

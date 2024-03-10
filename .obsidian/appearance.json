@@ -1,7 +1,7 @@
 {
-  "cssTheme": "LYT Mode",
+  "cssTheme": "Minimal",
   "translucency": false,
-  "baseFontSize": 14,
+  "baseFontSize": 19,
   "enabledCssSnippets": [
     "file-explorer-no-line-wrap"
   ],

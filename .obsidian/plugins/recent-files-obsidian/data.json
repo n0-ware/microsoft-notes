@@ -1,40 +1,128 @@
 {
   "recentFiles": [
     {
-      "basename": "Virtual Machines",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Virtual Machines.md"
+      "basename": "NotesGeneral",
+      "path": "Templates/NotesGeneral.md"
     },
     {
-      "basename": "Virtual Desktop",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Virtual Desktop.md"
+      "basename": "Questions to Review",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Exam/Questions to Review.md"
     },
     {
-      "basename": "Scale Sets",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Scale Sets.md"
+      "basename": "Governance",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Governance.md"
     },
     {
-      "basename": "Kubernetes Service",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Kubernetes Service.md"
+      "basename": "ARM Templates",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Utilities/ARM Templates.md"
     },
     {
-      "basename": "Functions",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Functions.md"
+      "basename": "Scalability and Elasticity",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants (D)/Scalability and Elasticity.md"
+    },
+    {
+      "basename": "Reliability",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants (D)/Reliability.md"
+    },
+    {
+      "basename": "File Storage",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/File Storage.md"
+    },
+    {
+      "basename": "Azure Managed Disks",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Azure Managed Disks.md"
+    },
+    {
+      "basename": "Storage Redundancy",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Redundancy.md"
+    },
+    {
+      "basename": "Public and Private Endpoints",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Public and Private Endpoints.md"
+    },
+    {
+      "basename": "Manageability",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants (D)/Manageability.md"
+    },
+    {
+      "basename": "Premium Storage",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Premium Storage.md"
+    },
+    {
+      "basename": "Summary - Storage",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Summary - Storage.md"
+    },
+    {
+      "basename": "Predictability",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants (D)/Predictability.md"
+    },
+    {
+      "basename": "High Availability",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants (D)/High Availability.md"
     },
     {
       "basename": "Azure Container Service",
       "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Azure Container Service.md"
     },
     {
-      "basename": "App Services",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/App Services.md"
+      "basename": "Monitoring Tools",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Monitoring Tools.md"
+    },
+    {
+      "basename": "Azure Monitor",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Azure Monitor.md"
+    },
+    {
+      "basename": "Pricing",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants (D)/Pricing.md"
+    },
+    {
+      "basename": "Security",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants (D)/Security.md"
+    },
+    {
+      "basename": "Governance Pillar",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants (D)/Governance Pillar.md"
+    },
+    {
+      "basename": "Scale Sets - Kubernetes Service",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Scale Sets - Kubernetes Service.md"
+    },
+    {
+      "basename": "Azure Arc",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Azure Arc.md"
+    },
+    {
+      "basename": "Functions",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Compute (D)/Functions.md"
+    },
+    {
+      "basename": "Azure CLI",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Utilities/Azure CLI.md"
+    },
+    {
+      "basename": "Best Practices",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Pricing/Best Practices.md"
+    },
+    {
+      "basename": "Pricing Factors",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Pricing/Pricing Factors.md"
+    },
+    {
+      "basename": "Cost Management",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Pricing/Cost Management.md"
+    },
+    {
+      "basename": "Subscriptions (Pricing)",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Pricing/Subscriptions (Pricing).md"
+    },
+    {
+      "basename": "Introduciton - Pricing",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Pricing/Introduciton - Pricing.md"
     },
     {
       "basename": "Zero Trust Concepts",
       "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Zero Trust Concepts.md"
-    },
-    {
-      "basename": "Summary - Auth and Auth",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Summary - Auth and Auth.md"
     },
     {
       "basename": "Single Sign-On",
@@ -61,144 +149,52 @@
       "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Conditional Access Policies.md"
     },
     {
-      "basename": "AAD Domain Services",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/AAD Domain Services.md"
+      "basename": "Azure Active Directory",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Azure Active Directory.md"
     },
     {
       "basename": "Auth and Auth Introduction",
       "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Auth and Auth Introduction.md"
     },
     {
-      "basename": "Azure Active Directory",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/Azure Active Directory.md"
+      "basename": "AAD Domain Services",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Authentication and Authorization (D)/AAD Domain Services.md"
     },
     {
-      "basename": "+ Azure MOC",
-      "path": "Azure/AZ-900/+ Azure MOC.md"
+      "basename": "Database Migration",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Databases/Database Migration.md"
     },
     {
-      "basename": "Security",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Security.md"
+      "basename": "Azure Database for PostgreSQL",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Databases/Azure Database for PostgreSQL.md"
     },
     {
-      "basename": "Summary - Storage",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Summary - Storage.md"
+      "basename": "Azure Database for MySQL",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Databases/Azure Database for MySQL.md"
     },
     {
-      "basename": "Moving Data (IO)",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Moving Data (IO).md"
+      "basename": "Azure SQL",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Databases/Azure SQL.md"
     },
     {
-      "basename": "Azure Managed Disks",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Azure Managed Disks.md"
+      "basename": "Cosmos DB",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Databases/Cosmos DB.md"
     },
     {
-      "basename": "Azure Blob Storage",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Azure Blob Storage.md"
+      "basename": "- Introduction - Databses",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Databases/- Introduction - Databses.md"
     },
     {
-      "basename": "Premium Storage",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Premium Storage.md"
+      "basename": "PowerShell",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Utilities/PowerShell.md"
     },
     {
-      "basename": "File Storage",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/File Storage.md"
+      "basename": "CloudShell",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Utilities/CloudShell.md"
     },
     {
-      "basename": "Archive",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Archive.md"
-    },
-    {
-      "basename": "Storage Introduction",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Introduction.md"
-    },
-    {
-      "basename": "Storage Redundancy",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Storage (D)/Storage Redundancy.md"
-    },
-    {
-      "basename": "Governance Pillar",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants/Governance Pillar.md"
-    },
-    {
-      "basename": "Security Summary",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Security Summary.md"
-    },
-    {
-      "basename": "Azure Sentinel (Supplemental)",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Azure Sentinel (Supplemental).md"
-    },
-    {
-      "basename": "Introduction to Security",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Introduction to Security.md"
-    },
-    {
-      "basename": "Public and Private Endpoints",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Public and Private Endpoints.md"
-    },
-    {
-      "basename": "Microsoft Defender for Identity",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Microsoft Defender for Identity.md"
-    },
-    {
-      "basename": "Network Security",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Network Security.md"
-    },
-    {
-      "basename": "Network Security Groups",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Network Security Groups.md"
-    },
-    {
-      "basename": "Notes on Group Types",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Notes on Group Types.md"
-    },
-    {
-      "basename": "Defense in Depth",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Defense in Depth.md"
-    },
-    {
-      "basename": "Information Protection",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Information Protection.md"
-    },
-    {
-      "basename": "Key Vault",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Key Vault.md"
-    },
-    {
-      "basename": "Dedicated Hosts (Supplemental)",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Dedicated Hosts (Supplemental).md"
-    },
-    {
-      "basename": "Defender for Cloud",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Security (D)/Defender for Cloud.md"
-    },
-    {
-      "basename": "Summary - Networking",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Summary - Networking.md"
-    },
-    {
-      "basename": "VPN Gateway",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/VPN Gateway.md"
-    },
-    {
-      "basename": "Virtual Network",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Virtual Network.md"
-    },
-    {
-      "basename": "Network Load Balancer",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Network Load Balancer.md"
-    },
-    {
-      "basename": "Express Route",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Express Route.md"
-    },
-    {
-      "basename": "Application Gateway",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Application Gateway.md"
-    },
-    {
-      "basename": "Content Delivery Network (CDN)",
-      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Networking (D)/Content Delivery Network (CDN).md"
+      "basename": "Azure Mobile Apps",
+      "path": "Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Utilities/Azure Mobile Apps.md"
     }
   ],
   "omittedPaths": [],

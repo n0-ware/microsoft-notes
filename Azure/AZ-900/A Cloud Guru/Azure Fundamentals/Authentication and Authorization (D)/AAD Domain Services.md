@@ -42,6 +42,6 @@ Azure Active Directory Domain Services (AAD DS) is a managed domain services pla
 - A "one-way sync" can be set up to get all your Azure AD information (including groups, credentials, users, etc.) to Azure AD DS.
 - It's also possible to maintain a two-way sync between on-premises AD and Azure AD. This results in a two-way and one-way sync.
 
-![[1_Azure_aadds.png]]
+![[Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core (D)/Photos 1/1_Azure_aadds.png]]
 
 _Please note: Remember to check for the latest updates on Azure AD DS as it is a continually evolving service._
