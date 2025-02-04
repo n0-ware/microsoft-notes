@@ -24,7 +24,7 @@ Azure Arc is a service that simplifies the management of complex and distributed
 - Azure Arc enables management of non-Azure resources as if they were in Azure.
 - It extends Azure cloud management capabilities and services to non-Azure locations.
 
-![[1_Azure_azure_arc.png]]
+![[Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Monitoring and Management (D)/Photos/1_Azure_azure_arc.png]]
 
 ## Key Benefits
 

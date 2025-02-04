@@ -16,3 +16,5 @@ Manageability in the cloud can be segmented into two main aspects:
 
 - **Management OF the Cloud**: Features like auto-scaling, monitoring, and deployment using ARM templates fall here.
 - **Management IN the Cloud**: Tools like the portal, CLI, and APIs that aid in efficient management within the cloud.
+
+Includes [Security](Azure/AZ-900/A%20Cloud%20Guru/Azure%20Fundamentals/Core%20Tenants%20(D)/Security.md) and [Governance](Azure/AZ-900/A%20Cloud%20Guru/Azure%20Fundamentals/Monitoring%20and%20Management%20(D)/Governance.md)

@@ -12,7 +12,7 @@ cert: "AZ-900"
 
 Azure embodies a set of principles that drive its capabilities:
 
-- **[[Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants (D)/Reliability |Fault Tolerance (Reliability)]]**
+- **[[Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants (D)/Reliability|Fault Tolerance (Reliability)]]**
 - **[[Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants (D)/High Availability| |High-Availability]]**
 - **[[Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants (D)/Scalability and Elasticity| |Scalability]]**
 - **[[Azure/AZ-900/A Cloud Guru/Azure Fundamentals/Core Tenants (D)/Scalability and Elasticity| |Elasticity]]**

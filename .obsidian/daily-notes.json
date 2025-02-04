@@ -1,3 +1,6 @@
 {
-  "folder": "Daily Notes"
+  "folder": "Notes",
+  "format": "MM-DD-YYYY",
+  "template": "Templates/PeriodicNotes/DailyWorkNote",
+  "autorun": true
 }

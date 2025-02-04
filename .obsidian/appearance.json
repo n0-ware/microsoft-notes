@@ -1,11 +1,5 @@
 {
-  "cssTheme": "Minimal",
-  "translucency": false,
-  "baseFontSize": 19,
-  "enabledCssSnippets": [
-    "file-explorer-no-line-wrap"
-  ],
-  "textFontFamily": "",
-  "interfaceFontFamily": "",
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Blue Topaz"
 }

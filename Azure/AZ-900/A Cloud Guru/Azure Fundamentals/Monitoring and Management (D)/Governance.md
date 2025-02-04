@@ -19,7 +19,7 @@ cert: "AZ-900"
 - Don't let people do whatever they want to or think they should at the time
 - Must set guardrails around resources, creation, use etc. 
 
-
+See [Governance](Azure/AZ-900/A%20Cloud%20Guru/Azure%20Fundamentals/Core%20Tenants%20(D)/Governance.md) in Core Tenants
 ## Azure Policy
 
 > Governance validates that your organization can achieve it's goals through effective use of IT

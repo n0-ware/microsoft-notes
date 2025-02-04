@@ -27,3 +27,12 @@ Azure Monitor uses all the data Azure collects to improve your cloud management 
 4. **Machine Learning Integration:** Azure Monitor uses machine learning to predict and recognize potential issues.
 5. **Performance Optimization:** It helps to maximize performance and availability, and assists in issue identification.
 
+## Azure Monitor Alerts
+
+Azure Monitor Alerts provide real-time notifications in response to unexpected events in your Azure environment.
+
+- Alerts can be triggered by various conditions, such as unresponsive VMs, excessive CPU usage, or application latency above the defined threshold.
+- Alert rules are defined by monitored resources, telemetry, conditions to trigger, and assigned severity levels.
+- Actions are managed by Action Groups, which specify the response to the triggered alerts.
+    - Action groups define notification targets such as email or SMS.
+    - They can also define automation workflows for programmatic responses to specific alert conditions.
